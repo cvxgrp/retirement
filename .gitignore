@@ -11,6 +11,8 @@ htmlcov
 # C extensions
 *.so
 
+.DS_store
+
 # Distribution / packaging
 .Python
 build/
