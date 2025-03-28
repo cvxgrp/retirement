@@ -1,13 +1,16 @@
 [tool.poetry]
-name = "retirement"
+name = "cvxretirement"
 version = "0.0.0"
 description = "Simple simulator for investors"
-authors = ["Thomas Schmelzer"]
+authors = ["Kasper Johansson"]
 readme = "README.md"
-repository = "https://github.com/cvxgrp/simulator"
+repository = "https://github.com/cvxgrp/cvxretirement"
+packages = [
+    { include = "cvx/retirement" }
+]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
+python = ">=3.10,<3.13"
 numpy = "*"
 pandas = ">=2.2.0"
 cvxpy = ">=1.4.1"
@@ -19,6 +22,8 @@ scikit-learn = "^1.5.2"
 tqdm = "^4.66.5"
 mosek = "^10.2.5"
 arch = "^7.1.0"
+glpk = "^0.4.8"
+xarray = "^2025.1.2"
 
 [tool.poetry.group.test.dependencies]
 pytest = "8.3.3"

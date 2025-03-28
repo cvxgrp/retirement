@@ -1,4 +1,4 @@
-# cvxsimulator Code of Conduct
+# cvxretirement Code of Conduct
 
 ## Our Pledge
 
