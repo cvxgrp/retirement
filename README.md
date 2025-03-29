@@ -1,6 +1,6 @@
 # Retirement funding
 
-This code repository accompanies the paper [XXX](YYY).
+This code repository accompanies the paper [A Tax-Efficient Model Predictive Control Policy for Retirement Funding](https://web.stanford.edu/~boyd/papers/retirement.html).
 
 
 ## Poetry
@@ -30,7 +30,7 @@ will install and start the Jupyter lab. The experiments are replicated in the ex
 
 If you want to reference our work in your research, please consider using the following BibTeX for the citation:
 ```
-@misc{boyd2020retirement,
+@misc{johansson2024retirement,
       title={A Tax-Efficient Model Predictive Control Policy for Retirement Funding},
       author={Kasper Johansson and Stephen Boyd},
       year={2025},
