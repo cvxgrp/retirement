@@ -5,7 +5,7 @@ This code repository accompanies the paper [A Tax-Efficient Model Predictive Con
 
 ## Poetry
 
-We assume you share the love for [Poetry](https://python-poetry.org).
+We assume you share our love for [Poetry](https://python-poetry.org).
 Once you have installed poetry you can perform
 
 ```bash
