@@ -26,3 +26,16 @@ make jupyter
 
 will install and start the Jupyter lab. The experiments are replicated in the experiments folder notebooks.
 
+## Citation
+
+If you want to reference our work in your research, please consider using the following BibTeX for the citation:
+```
+@misc{boyd2020retirement,
+      title={A Tax-Efficient Model Predictive Control Policy for Retirement Funding},
+      author={Kasper Johansson and Stephen Boyd},
+      year={2025},
+      url={https://web.stanford.edu/~boyd/papers/retirement.html},
+      note={Preprint}
+}
+```
+
